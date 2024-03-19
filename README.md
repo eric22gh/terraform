@@ -1,6 +1,3 @@
-# terraform
-
-Aquí tienes una versión actualizada del README.md con la descripción ajustada:
 
 Hi there! 👋
 I'm Eric, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of AWS, Linux, Terraform, and SQL, learning and growing in these technologies.
